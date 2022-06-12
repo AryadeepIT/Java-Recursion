@@ -8,6 +8,10 @@
 * Recursion - Merge Sort
 * Recursion - Quick Sort
 * Recursion - Strings + SubSet + Subsequence
+* Recursion - Permutations
+* Recursion - Leetcode Recursion Problems
+* Recursion - Backtracking and Maze Problems
+* Recursion - nQueens, nKnight, Soduku Solver
 
 ## Detailed Syllabus of Java Recursion
 ### Lectures ~
